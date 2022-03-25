@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHRA+UbdPjSgIlk8WAIgAOYAusIB/WH2rORY3RFtH0pPC7izc52uBK2XA5ZA6mpEDpIOCQPLhAzlcxrbf6/ilw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\NbitTask\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

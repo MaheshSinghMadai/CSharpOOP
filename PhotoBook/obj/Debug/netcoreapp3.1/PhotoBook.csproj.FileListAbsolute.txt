@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.exe
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.deps.json
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.runtimeconfig.json
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.dll
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\bin\Debug\netcoreapp3.1\PhotoBook.pdb
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.AssemblyInfo.cs
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.dll
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.pdb
+C:\Users\Corion\source\repos\NbitTask\PhotoBook\obj\Debug\netcoreapp3.1\PhotoBook.genruntimeconfig.cache

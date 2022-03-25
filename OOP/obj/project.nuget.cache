@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "++x8Mql6+Jt1KNd7CWGLlahwBSSLmiTOnTkbMYZk9dJUW6jaMEYKIx/Pjr3dzcX91Os45BWaXMVQzWB0GL4Wrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\NbitTask\\OOP\\CPST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

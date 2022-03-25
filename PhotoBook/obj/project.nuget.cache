@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o49T3NOfH+lTGGeoJaD6A8Dr7svoKmgpLs/A7ATjMNYOJCjiEya6Z6egjdj9Kf3wWvyUt62p0eOn5K7Y4skO8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\NbitTask\\PhotoBook\\PhotoBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
