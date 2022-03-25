@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PfV+DjD+X+50RYVlKsbytXA7c6ghiUM/T7Kpi8xv2TtaZB9NsrYbfpM64Hm3sR3J9NIeBfJKQx3I8jHOL6ssXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\NbitTask\\Constructor\\Constructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
