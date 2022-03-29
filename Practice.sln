@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{380BA84E-67B4-4AB5-B76A-842C934C7CBE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{D39AFA08-046D-4D1F-8AD7-5ED1B531D71B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPST", "OOP\CPST.csproj", "{D39AFA08-046D-4D1F-8AD7-5ED1B531D71B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{EC1BCF87-4A34-452E-93AC-2DB9F6D222CE}"
 EndProject
